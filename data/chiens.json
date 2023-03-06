@@ -1,0 +1,213 @@
+{
+    "chiens": [
+        {
+            "id": 1,
+            "race" : ["golden retriever", "golden","retriever"],
+            "histoire" : "Lord Tweedmouth avait reçu un retriever à poil jaune, répondant au nom de Nous,  il fit accouplé Nous avec Belle, une chienne de race Tweed Water Spaniel qui donnèrent naissance en juin 1868 aux tout premiers Golden de l'histoire.",
+            "caractere" : "Son caractère jovial, docile, intelligent, naturellement doué pour le travail, doux, amical et sûr de lui en fait un excellent compagnon.",
+            "image": [
+                "https://www.desjardins-inspirations.fr/wp-content/uploads/2022/02/Golden-retriever.jpg",
+                "https://img2.storyblok.com/f/83829/1200x628/2b9a13f5fe/esperance-vie-golden-retriever.jpg",
+                "https://img2.storyblok.com/f/83829/1200x628/2974070541/golden-retriever-vivre-appartement.jpg",
+                "https://global-uploads.webflow.com/59dbe1c3542805000192616b/63178a7970d1b57a4c6a7a05_golden-retriever.png",
+                "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F09%2F01%2Fdog-calling-humans-tiktoks-2000.jpg",
+                "https://static.wixstatic.com/media/fcdc74_11e561dfce8a4c83a598dbe74de6a3a4~mv2.jpg/v1/fill/w_640,h_520,al_r,q_80,usm_0.66_1.00_0.01,enc_auto/fcdc74_11e561dfce8a4c83a598dbe74de6a3a4~mv2.jpg",
+                "https://www.labradorsduparcdelormoy.com/wp-content/uploads/2021/10/goldador.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "race": ["dalmatien"],
+            "histoire": "Le dalmatien est une race de chien originaire de Dalmatie, une région de la Croatie.\nÀ l'époque, le Dalmatien se nommait aussi « Chien de coche » car sa fonction première était d'ouvrir la voie au coche et à la diligence transportant le courrier.\nC'est tout naturellement que le Dalmatien est connu en tant que mascotte chez les pompiers. Il emboîtait le pas aux chevaux tractant les véhicules des pompiers américains et aboyait pour avertir et éloigner les animaux et les personnes",
+            "caractere" : "Son caractère calme, têtu, intelligent et câlin, animera votre maison dans le calme.",
+            "image": [
+                "https://blog.gudog.fr/wp-content/uploads/2018/03/Charlie-el-dalmata.png",
+                "https://i.f1g.fr/media/cms/3000x2000_crop/2021/11/09/7b10d72063f4138ca1a36b191ed16efebcac7343e4f4b70262fa49e36cbca072.jpg",
+                "https://www.mouss-le-chien.com/medias/album/jeune-chiot-dalmatien-a-la-mer.jpg",
+                "https://www.woopets.fr/assets/ckeditor/2018/apr/3400/originale/tmg-article_tall%20(1).jpg",
+                "https://2img.net/h/juliedavid33.free.fr/image/oeil%20bleu2.jpg",
+                "https://i.pinimg.com/originals/2f/d8/12/2fd81219073c1f29a2adf6a758bf503e.png",
+                "https://www.omlet.fr/images/cache/512/340/Dog-Dalmatian-An_obedient_male_Dalmatian_sitting_neatly%2C_waiting_for_a_command.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "race": ["staffordshire terrier americain", "staff", "american staffordshire terrier" ],
+            "histoire": "De longue date, des combats furent organisés opposant divers animaux, dont des taureaux, à des chiens de combat. Les chiens utilisés dans ces combats étaient principalement des bulldogs. Les bulldogs de cette époque étaient cependant différents des bulldogs modernes, ils étaient plus grands et plus puissants. Parallèlement, des terriers, chiens plus fins et plus agiles, étaient utilisés dans des combats __**« chien contre rats »**__.\n Cependant c'est un animal très affectueux et très protecteur.",
+            "caractere" : "Le staffordshire est un chien doux, patient, obéissant, docile et affectueux, doté d'une grande intelligence, joueur, il aime se dépenser sans compter lors de sorties plus sportives ou en balade quotidienne.",
+            "image": [
+                "https://www.zooplus.fr/magazine/wp-content/uploads/2018/11/American-Staffordshire-Terrier.jpeg",
+                "https://www.eleveurs-online.com/data/evolutions/13/evol-12710.1000.jpg",
+                "https://www.francebleu.fr/s3/cruiser-production/2021/03/73835215-8982-40b1-9259-fc68dfb322ee/1200x680_dpacreative378158.jpg",
+                "https://www.toilettagechienschats.com/wp-content/uploads/2022/03/Baniere-Amrican-Staff.png",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXuEv3QDjgTXy3pb1gZNIXrbAPQZ87CsJz90SGquwqTpAjOUYRliepqv4mxMhF0fEmDo&usqp=CAU",
+                "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fanimaux.2Fchiens-et-chats-de-race.2Fle-staffordshire-bull-terrier-un-chien-agile-39342.2F14547426-1-fre-FR.2Fle-staffordshire-bull-terrier-un-chien-agile.2Ejpg/1200x900/quality/80/crop-from/center/le-staffordshire-bull-terrier-un-chien-agile.jpeg",
+                "https://www.santevet.com/upload/admin/images/article/chien2_2/races_chiens/staffie/staffie_bull_terrier.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "race": ["patou","chien montagne des pyrénées", "chien des pyrénées","chien montagne des pyrenees","chien des pyrenees","montagne des pyrenees","montagne des pyrenees"],
+            "histoire": "Le chien de montagne des Pyrénées, ou montagne des Pyrénées, est une ancienne race de chien de berger apparue au Moyen-Âge, utilisé dans le sud-ouest de la France et le nord-est de l'Espagne, en particulier les Pyrénées pour la protection des troupeaux contre les prédateurs, notamment les ours qui y vivent.",
+            "caractere" : "Le Chien de montagne des Pyrénées est un chien qui sait utiliser sa constitution physique impressionnante pour imposer le respect. Intelligent et affectueux, il est un protecteur né qui se dressera courageusement et sans aucune hésitation face à toute menace dirigée vers son maître et sa famille.",
+            "image": [
+                "https://upload.chien.com/img_global/24-adoption/_light-3294-adopter-un-patou-les-contraintes-du-montagne-des-pyrenees.jpg",
+                "https://jardinage.lemonde.fr/images/dossiers/2018-06/patou-1-134829.jpg",
+                "https://media.os.fressnapf.com/cms/2020/07/ratgeber_hund_rasse_portraits_pyrenaeen_berghund_1200x527.jpg?t=cmsimg_920",
+                "https://animals.net/wp-content/uploads/2018/08/Great-Pyrenees-4-650x425.jpg",
+                "https://wikiofpets.com/wp-content/uploads/2022/09/image.jpg",
+                "https://i.pinimg.com/564x/7f/41/94/7f41942a06fdaadf2bc6ff0a659ba258.jpg",
+                "https://media.istockphoto.com/id/1058626580/fr/photo/chiot-de-chien-grande-pyr%C3%A9n%C3%A9es-souriant-dans-le-refuge-pour-animaux.jpg?s=612x612&w=0&k=20&c=R7JKESzz_shMAiP3aS_QN0xh4hgEgKVdRArBwnfyiLY="
+            ]
+        },
+        {
+            "id" : 5,
+            "race" : ["podenco de canaria","canaria","podenco"],
+            "histoire" : "Chien de nationalité Espagnole originaire de l'île d'Ibiza (Baléares), c'est une des plus anciennes races au monde dont on peut voir la représentation dans les tombes de pharaons et sur des pièces de musées, ce qui en fait remonter l’origine à 3400 ans Av.J.C. Il est le descendant direct du Tesem, lévrier égyptien aujourd'hui disparu. Certaines peintures tribales le représenteraient même environ 6000 ans Av.J.C.",
+            "caractere" : "Le Podenco est un sportif, actif, sensible et intelligent, il déteste les conflits et préfère s'en éloigner, il serait un compagnon idéal pour les adaptes de sport.",
+            "image" : [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYQ5nP7VZdYKVRgfa-eu6GQY98jjj_ZLR60nm4nhB8pRLXWXek-d7RiU4hbSUc3rC_sE&usqp=CAU",
+              "https://www.petsonic.com/blog/wp-content/uploads/2017/11/podenco-canario-en%C3%A9rgico.jpg",
+              "https://www.craigmcginty.com/.a/6a00d8341c7e8653ef0240a4713f28200c-pi",
+              "https://www.larevoltedeslevriers.fr/gallery_gen/080912774537643dfba4470e5a9fe936.jpg",
+              "https://www.zooplus.be/magazine/wp-content/uploads/2021/09/podenco-andaluz-hund-768x512-2.jpeg",
+              "https://t3.ftcdn.net/jpg/01/09/14/52/360_F_109145284_N7pMAIyXrgdUsyWUm80ZWevSba8mtu97.jpg",
+              "https://www.hondenrassenwijzer.nl/wp-content/uploads/2019/09/Podenco-Ibicenco.jpg"
+            ]        
+        },
+        {
+            "id" : 6,
+            "race" : ["samoyede"],
+            "histoire" : " Les Samoyèdes sont d'origine de la Russie européenne et de la Sibérie occidentale. Le samoyède se caractérise par son célèbre « sourire », sa queue flamboyante et son épaisse fourrure d'un blanc immaculé.\nLes chiens samoyèdes auraient été développés par les groupes samoyèdes qui vivent dans le nord de la Russie européenne et en Sibérie du nord-ouest. afin de chasser ainsi que pour garder les troupeaux de rennes. Les chiens dorment même avec leurs maîtres en servant de source de chaleur.",
+            "caractere" : "Le samoyède est d'un naturel vif, amical et enjoué. Il est attaché à l'homme et supporte mal la solitude. Son extrême sociabilité en fait un piètre chien de garde.",
+            "image" : [
+              "https://lemagduchien.ouest-france.fr/images/dossiers/2018-04/samoyede-1-105500.jpg",
+              "https://www.eleveurs-online.com/data/evolutions/13/evol-12792.1000.jpg",
+              "https://img2.storyblok.com/f/83829/1200x628/44f422257c/race-chien-samoyede.jpg",
+              "https://chatschiens.com/wp-content/uploads/2020/04/samoyed-dog-11-1.jpg",
+              "https://www.santevet.com/upload/admin/images/article/PMO/FICHES%20RACES/CHIENS/samoy%C3%A8de_assurance_sant%C3%A9vet.jpg",
+              "https://img2.storyblok.com/filters:format(webp)/f/83829/1200x628/6f46c9db71/samoyede-peut-vivre-appartement.jpg",
+              "https://www.wanimo.com/veterinaire/wp-content/uploads/2011/10/images_articles_chien_samoyede@2x.jpg"
+            ]        
+        },
+        {
+            "id" : 7,
+            "race" : ["border collier", "collier", "border"],
+            "histoire" : "Le border collie est une race de chien de berger, originaire de la frontière entre l'Angleterre et l'Écosse, les « Scottish Borders », d'où il tient son nom.",
+            "caractere" : "Le Border Collier est affectueux et proche de son maître. Il possède habituellement une vivacité d'esprit remarquable. C'est surtout un chien très actif, qui a besoin de se sentir utile et de pratiquer des activités stimulantes aussi bien mentalement que physiquement, de préférence en partenariat avec son maître. Il a besoin, en effet, de plus de stimulations que que ses congénères canins.",
+            "image" : [
+              "https://jumeauxandco.com/wp-content/uploads/2020/06/Arriv%C3%A9e-Chiot-famille.jpg",
+              "https://lemagduchien.ouest-france.fr/images/dossiers/2017-11/border-collie-1-103855.jpg",
+              "https://cdn.shopify.com/s/files/1/1566/2889/articles/pauline-loroy-U3aF7hgUSrk-unsplash_1_1.jpg?v=1646990388",
+              "https://media.gerbeaud.net/2021/01/640/border-collie.jpg",
+              "https://cdn.futura-sciences.com/sources/images/border-collie-chien.jpg",
+              "https://www.animal.ch/wp-content/uploads/2021/12/border-collie.jpg",
+              "https://www.jardiner-malin.fr/wp-content/uploads/2022/11/le-border-collie-1.jpg"
+            ]        
+        },
+        {
+            "id" : 8,
+            "race" : ["akita inu","hachiko", "akita"],
+            "histoire" : "L'Akita Inu est originaire du Japon, plus précisément de la province d'Akita. C'est une race de chien très ancienne. À l'origine chasseur de sangliers, de cerfs et d'ours, l'Akita Inu a par la suite été utilisé comme chien de garde et chien de combat par les Japonais.",
+            "caractere" : "L'Akita Inu est un chien fidèle, intelligent, courageux, posé, loyal et indépendant, il serait un parfait compagnon pour une vie de famille.",
+            "image" : [
+              "https://actualite-news.com/wp-content/uploads/2022/03/dog-g9af8b604c_1280.jpg",
+              "https://www.canibest.com/www/canibest/static/images/illustrations/fiche-race-chien-akita-inu.jpg",
+              "https://soyunperro.com/wp-content/uploads/2018/01/Akita-Inu-perro.jpg",
+              "https://us.123rf.com/450wm/seregraff/seregraff1608/seregraff160800104/62291187-closeup-portrait-de-chien-adorable-akita-inu-souriant-avec-la-langue-sur-fond-noir-isol%C3%A9.jpg?ver=6",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC3mRKC75sDkFsyYOBFCspPzFDxjSjywLRQ&usqp=CAU",
+              "https://live.staticflickr.com/65535/49442723042_7ac78cd640_b.jpg",
+              "https://www.akita-inu-ken.com/wp-content/uploads/2019/01/001-1024x451.jpg"
+            ]
+       },
+        {
+            "id" : 9,
+            "race" : ["shiba inu","shiba"],
+            "histoire" : "Le Shiba Inu est un chien primitif et trouve ses origines au pays du Soleil Levant, où il était utilisé pour chasser le petit gibier.\nSon nom provient de sa morphologie, « Shiba Inu » signifiant « Petit Chien ».\n",
+            "caractere" : "Le Shiba Inu est un chien confiant, enthousiaste, énergique, fidèle.",
+            "image" : [
+              "https://img2.storyblok.com/filters:format(webp)/f/83829/1200x628/3884c019fe/race-chien-shiba-inu.jpg",
+              "https://www.cripto-valuta.net/wp-content/uploads/2021/06/shiba-inu.jpg",
+              "https://www.lifehacker.com.au/wp-content/uploads/sites/4/2021/05/13/GettyImages-822523842.jpg?quality=80&resize=1280,720",
+              "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F667045%2Fshibainudown.jpg&op=resize&w=700",
+              "https://blockchainwelt.de/wp-content/uploads/2022/05/happy-calm-shiba-inu-dog-in-sunlight-2021-08-31-11-54-09-utc-1-1.jpg",
+              "https://ambcrypto.com/wp-content/uploads/2022/03/Untitled-design-e1647178392550.png",
+              "https://bitcoin-kurier.de/wp-content/uploads/2021/06/Dogecoin-SHIB-DOGE-960x690.jpg"
+            ]
+       },
+        {
+            "id" : 10,
+            "race" : ["eurasier"],
+            "histoire" : "L'eurasier est une race de chien originaire d'Allemagne créée dans les années 1960.\nLe but de cette création fut d'obtenir un chien de type nordique, de taille moyenne, à l'apparence attirante, avec une bonne adaptation aux différents styles de vie (ferme, banlieue, appartement) et possédant un caractère stable sans agressivité. ",
+            "caractere" : "L'eurasier est un chien très gai, joyeux quand il est jeune même s'il devient plus distant en grandissant, intelligent et bien que plutôt joueur, il reste assez calme et posé tant que ses besoins physiques et mentaux sont respectés. ",
+            "image" : [
+              "https://www.zooplus.fr/magazine/wp-content/uploads/2021/07/eurasier2.jpeg",
+              "https://www.mascotarios.org/wp-content/gallery/eurasier/Eurasier-6.jpg",
+              "https://nosamisleschiens.fr/wp-content/uploads/2014/12/eurasier.jpg",
+              "https://www.empruntemontoutou.com/wp-content/uploads/2021/03/QUESTIONS-SUR-EURASIER.png",
+              "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fanimaux.2Fchiens-et-chats-de-race.2Fl-eurasier-un-vrai-chien-de-compagnie-40738.2F14600486-1-fre-FR.2Fl-eurasier-un-vrai-chien-de-compagnie.2Ejpg/1200x1200/quality/80/crop-from/center/l-eurasier-un-vrai-chien-de-compagnie.jpeg",
+              "https://global-uploads.webflow.com/62178d5c536d9151904f4361/632b34999831156d0317ed41_Croquettes-pour-Eurasier_zcpyom.jpg",
+              "https://www.canibest.com/www/canibest/static/images/illustrations/fiche-race-chien-eurasier.jpg"
+            ]
+        },
+        {
+            "id" : 11,
+            "race" : ["malamute de l'alaska","malamute"],
+            "histoire" : "Le Malamute de l'Alaska est un chien très ancien, apparu en Alaska, dans le Grand Nord, au sein de la tribu Mahlemiut d'où il tire son nom. Il était principalement utilisé comme chien de traîneau et chien de chasse. En voie d'extinction, il a été importé aux États-Unis où la race a été développée.",
+            "caractere" : "Le Malamute de l'Alaska est un chien dévoué, affectueux, loyal, sociable, digne et joueur",
+            "image" : [
+              "https://jardinage.lemonde.fr/images/dossiers/2018-04/malamute-1-094048.jpg",
+              "https://www.helloanimaux.fr/wp-content/uploads/2021/01/race-chien-malamute-debout-exterieur.jpg",
+              "https://media.ooreka.fr/public/image/3-307437-3001-full-13082069.jpg",
+              "https://image.jimcdn.com/app/cms/image/transf/dimension=740x10000:format=jpg/path/s5dde8bff85c81b2f/image/ib5b87688f019f158/version/1560696260/malamute-fiche-chien-animaux-origine-caractere-comportement-poil-couleur-chien-de-traineaux.jpg",
+              "https://redcdn.net/anipassion/ow_userfiles/plugins/animal/breed_image_597dddbdac37b.png",
+              "https://www.eleveurs-online.com/data/evolutions/13/evol-12783.1000.jpg",
+              "https://www.alaskanmalamutes.fr/Blog/Le%20pic%20de%20Bassia_19-05-2009/190509/IMG-5119.JPG"
+            ]
+        },
+        {
+            "id" : 12,
+            "race" : ["corgi","welsh corgi pembroke"],
+            "histoire" : "Le Welsh Corgi Pembroke est une race de chiens originaire du pays de Galles.\nLe mot « corgi » est issu du gallois « Cur ci », ou « Cor ci », signifiant « chien nain ».\nles corgis étaient traditionnellement utilisés pour conduire et garder les troupeaux et en chassaient si besoin les nuisibles.",
+            "caractere" : "Le corgi est tenace, communicatif, protecteur, amical, audacieux et joueur",
+            "image" : [
+              "https://media.tenor.com/sH-ejP8Em60AAAAC/cute.gif",
+              "https://media.ooreka.fr/public/image/3-306535-3601-full-13119053.jpg",
+              "https://cdn.belpatt.fr/img/belpatt_races/Welsh-Corgi-Pembroke.jpg",
+              "https://www.woopets.fr/assets/races/000/314/og-image/welsh-corgi-cardigan_2.jpg",
+              "https://i.f1g.fr/media/cms/704x/2021/09/23/4178c15dbac6e34ef0899b245f6acb353c6160b46ba76d7b041360e50544e8bf.jpg",
+              "https://jardinage.lemonde.fr/images/dossiers/2018-06/welsh-corgi-pembroke-2-083859.jpg"
+            ]
+        },
+        {
+            "id" : 13,
+            "race" : ["spitz nain","loulou de poméranie","poméranie","poméranien"],
+            "histoire" : "Le Poméranien, est une variété de taille du spitz allemand, race de chien originaire d'Allemagne.\nson nom vient de la province de Poméranie, aujourd'hui à cheval entre l'Allemagne orientale et la Pologne.",
+            "caractere" : "Le Poméranien est joueur, sociable, extraverti, intelligent et actif parfait pour être un bon gardien et peut être emmener partout.",
+            "image" : [
+              "https://i.f1g.fr/media/cms/3000x2001_crop/2022/10/11/9ab6c90f57d3001d5bea13200ac1ac430ab74033b2bb03929442da49f77a9304.jpg",
+              "https://www.eleveurs-online.com/data/race/1577.660.jpg",
+              "https://www.woopets.fr/assets/img/004/996/og-image/10-races-de-chiens-qui-aiment-etre-le-centre-du-monde.jpg",
+              "https://gardiens-hades.chiens-de-france.com/media_cdf/photo/eleveurs/20/3883/presentations/c0fa156a-6c4c-21b4-6dca-a6e5504d78e6_min.jpg",
+              "https://global-uploads.webflow.com/62178d5c536d9151904f4361/632b2e9b235fb6b198b1d328_croquettes-pour-pomeranien_nli15d.jpg",
+              "https://upload.chien.com/img_global/4-62--/_light-405321--.jpg",
+              "https://lh3.googleusercontent.com/-fQ9R3rkt8ho/YYVTtxz9-MI/AAAAAAAAAPw/ep55boNdz_4dRXyvZZYr-J04C6HxqmuPgCLcBGAsYHQ/w640-h360/Sans%2Btitre%2B%252869%2529.jpg"
+            ]
+        },
+        {
+            "id" : 14,
+            "race" : ["malinois","berger belge malinois"],
+            "histoire" : "Le malinois est l'une des quatre races de chiens de berger belges qui a été créée afin de garder les villes et à la fin du 19ème siècle, ils étaient utilisés pour le pâturage des moutons et pour la garde dans des petites fermes.",
+            "caractere" : "Le Malinois est un chien vif et protecteur, très dévoué, ce qui en fait le chien de travail par excellence. Rusé, aimant apprendre, vous ne le rendrez jamais plus heureux qu'en lui offrant des séances d'obéissance.",
+            "image" : [
+              "https://www.mouss-le-chien.com/medias/album/berger-belge-malinois-assis-au-bord-de-la-mer.jpg",
+              "https://img.passeportsante.net/1200x675/2022-01-31/shutterstock-1856511172.jpg",
+              "https://jardinage.lemonde.fr/images/dossiers/2017-08/malinois-2-104656.jpg",
+              "https://media.istockphoto.com/id/1026236412/fr/photo/mignon-chiot-belge-malinois-berger-avec-un-col-allong%C3%A9-sur-un-asphalte-en-%C3%A9t%C3%A9.jpg?s=170667a&w=0&k=20&c=XK3uhNr09sXUJAWpXEl9e73Xx6nWv6t1Ssa-2JhQIxA=",
+              "https://media.istockphoto.com/id/1031167404/fr/photo/chiots-malinois.jpg?s=612x612&w=0&k=20&c=kdWQHQBUXnhvkfj2g2yEaGjuxFfaJQUDlUbfTGdXYLw=",
+              "https://s24990.pcdn.co/wp-content/uploads/2016/08/Owl1.jpg",
+              "https://static.toutoupourlechien.com/2020/02/entretien-malinois.jpg"
+            ]
+        }
+    ]
+}

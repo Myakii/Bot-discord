@@ -1,0 +1,52 @@
+{"enigmes" : 
+    [{
+        "id": "Salle Clair de Lune",
+        "value": "À vos pieds, une faible lumière attire votre attention. En vous rapprochant de celle-ci, vous remarquez que c'est un téléphone sans connexion réseau...",
+        "image": "https://zupimages.net/up/22/49/qhef.png",
+        "footer" : "Qui suis-je ?",
+        "indice1" : "Ma phobie est l'un des 4 éléments.",
+        "indice2" : "Mon premier est de la terre mélangée à de la pluie.",
+        "indice3" : "Mon deuxième est la 10ème lettre de l’alphabet.",
+        "solution" : "bougie" 
+    },
+    {
+        "id": "Couloir",
+        "value": "*En prononçant la réponse, la pièce s'illumine et la porte derrière vous s'ouvre tout doucement.\n\nVous vous retrouvez dans un long couloir avec une seule porte. Sur cette porte, il est gravé des lettres qui semblent avoir été mise ici aléatoirement. À sa gauche se trouve un pavé numérique...*\n\n🔳 🔳 🔳 🔳 🔳 🔳\n\nO = 8\nE = L\nL = 4\nI = O + 1\nE = L\nT = 5 - 2*2",
+        "image": "https://zupimages.net/up/22/48/22a7.png",
+        "footer" : "Quel est donc le mot de passe ?",
+        "indice1" : "Je suis parfois visible.",
+        "indice2" : "Voici mon adresse \"34°06'06.0\"N 118°20'24.7\"W",
+        "indice3" : "Priorité à la multiplication.",
+        "solution" : "418944" 
+    },
+    {
+        "id": "Salle des trois portes",
+        "value": "*Après avoir enfin gagner la partie, une tâche bleue apparaît sur le téléphone et vous indique un chemin caché derrière des fleurs bleues. En passant par cette route, vous traversez un tunnel et devant vous se dresse trois portes où vous pouvez voir la lueur de chaque pièce sous la porte.\n\nLa première porte semble être illuminée par le clair de la \"**Lune**\".\nLa deuxième porte semble être illuminée par la lumière d'une \"**ampoule**\".\nLa troisième porte semble être illuminée par la flamme d'une \"**bougie**\".\n\nVous recevez à ce moment une notification où il est écrit :\n\" Regarde bien autour de toi ! Tu as peut-être manquer des choses ! \"*",
+        "image": "https://www.zupimages.net/up/22/48/6omo.png",
+        "footer" : "Quelle porte choisissez-vous?",
+        "indice1" : "Dans certaines mythologies, un animal me représente.",
+        "indice2" : "Je fais partie de l'histoire du monde.",
+        "indice3" : "Je reflète mon opposé.",
+        "solution" : "lune"     
+    },
+    {
+        "id": "Salle des signes",
+        "value": "*Vous ouvrez doucement la porte où se trouve le jardin. Les grandes vitres de la pièce vous donne l'impression que vous serez bientôt libre. Vous regardez la salle avec attention et vous voyez une panoplie de constellations et de plantes... Mais quelque chose cloche dans la pièce, dans chaque coin, vous trouvez ces codes :*\n\n#fee347\n#791cf8\n#f88c55\n#fdf1b8\n#fefee0\n#ffff6b",
+        "image": "https://i.pinimg.com/564x/6d/c4/9f/6dc49fef6891e223f9a48f1e1ffaa44e.jpg",
+        "footer" : "A quoi correspondent ces codes ?",
+        "indice1" : "J'appartiens au passé.",
+        "indice2" : "Mon entier est le premier de chaque mot.",
+        "indice3" : "Ma famille est composée de 12 entités.",
+        "solution" : "pisces"    
+    },
+    {
+        "id": "Salle Pisces",
+        "value": "*En remontant les marches après toutes ces épreuves, vous vous reposez enfin dans une salle calme et agréable. Sans un moment de répit, le téléphone vous envoie une nouvelle notification :\n- Rejoignez un salon vocal\n- Exécuter la commande `!join` puis `!play https://www.youtube.com/watch?v=D8tphdL3sGg`*",
+        "image": "https://twinfinite.net/wp-content/uploads/2022/07/image-48.jpg",
+        "footer" : "Quelle est le code ?",
+        "indice1" : "Quand tu me liras, tu te sentiras soulagé.",
+        "indice2" : "Mes lettres sont cachées",
+        "indice3" : "Mon code est universel.",
+        "solution" : "bravo"     
+    }]
+}

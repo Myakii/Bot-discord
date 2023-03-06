@@ -1,0 +1,82 @@
+{"VF" : 
+    [{
+        "id": 1,
+        "question": "La Lune reflète la lumière du Soleil.",
+        "Vrai": "Bien joué !",
+        "Faux": "Perdu...",
+        "is_first": true,
+        "Anecdote" : "En effet, il s'agit bien du reflet du Soleil."
+    },
+    {
+        "id": 2,
+        "question": "L’astrologie chinoise est basée sur des cycles de 9 ans.",
+        "Vrai": "Oui mais non...",
+        "Faux": "Eh oui, c'est bien la bonne réponse !",
+        "is_first": false,
+        "Anecdote" : "Il s'agit d'un cycle de 12 ans comme les signes du zodiaque !"
+    },
+    {
+        "id": 3,
+        "question": "Les trois signes de feu sont le Bélier, le Lion et le Sagittaire.",
+        "Vrai": "Trop fort !",
+        "Faux": "Quel dommage...",
+        "is_first": true,
+        "Anecdote" : "Les signes du Bélier, le Lion et le Sagittaire sont tous les trois des signes de feu."
+    },
+    {
+        "id": 4,
+        "question": "Le signe du Poisson est le dernier signe du zodiaque.",
+        "Vrai": "Vrai !",
+        "Faux": "Tu as raison ! Non, c'était une blague...",
+        "is_first": true,
+        "Anecdote" : "En effet, il s'agit bien du dernier signe du zodiaque et les poissons sont très bons avec de l'aneth !"
+    },
+    {
+        "id": 5,
+        "question": "Le Capricorne est le dixième signe du zodiaque.",
+        "Vrai": "Bien joué !",
+        "Faux": "Et...PERDU !",
+        "is_first": true,
+        "Anecdote" : "Effectivement, le Capricorne s'agit bel et bien du dixième signe du zodiaque."
+    },
+    {
+        "id": 6,
+        "question": "La distance Terre-Soleil est en moyenne de 149 597 870,7 km.",
+        "Vrai": "Eh... Oui !",
+        "Faux": "Dommage... Le savais-tu, Google existe ?",
+        "is_first": true,
+        "Anecdote" : "Effectivement, d'après les scientifiques, nous sommes à 149 597 870,7 km du Soleil."
+    },
+    {
+        "id": 7,
+        "question": "Nous sommes a une distance de 145 521 km de la lune ?",
+        "Vrai": "Faux !",
+        "Faux": "Félicitations ! Tu es un fin connaisseur.",
+        "is_first": false,
+        "Anecdote" : "Nous sommes à une distance de 384 400 km de la lune."
+    },
+    {
+        "id": 8,
+        "question": "Il a eu 12 pleines lunes durant l'année du premier confinement.",
+        "Vrai": "Et... c'était faux !",
+        "Faux": "Bravo ! Tu n'es pas tombé dans le piège.",
+        "is_first": false,
+        "Anecdote" : "Il a eu 13 pleines lunes en 2020 ! Avec sa lune bleue du 31 octobre, le jour d'Halloween !"
+    },
+    {
+        "id": 9,
+        "question": "Dans une éclipse solaire, le Soleil cache la Lune.",
+        "Vrai": "Pas loin... Mais non ! C'est le phénomène inverse.",
+        "Faux": "Waw.. Tu es très bon en astronomie !",
+        "is_first": false,
+        "Anecdote" : "Effectivement il s'agit bien de la Lune qui cache le Soleil lors d'une éclipse solaire."
+    },
+    {
+        "id": 10,
+        "question": "L’astrologie et le tarot n’ont aucun point commun.",
+        "Vrai": "Et... vrai !",
+        "Faux": "Perdu...",
+        "is_first": true,
+        "Anecdote" : "Chaque signe du zodiaque est lié à une carte de tarot."
+    }]
+}

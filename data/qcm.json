@@ -1,0 +1,92 @@
+{"QCM" : 
+    [{
+        "numero_question": 1,
+        "question": "La planète associée au signe de la Balance est...",
+        "reponse1": "Vénus",
+        "reponse2": "Uranus",
+        "reponse3" : "Mercure",
+        "solution": "Vénus",
+        "Anecdote" : "La planète qui est associée à La Balance est Vénus."
+    },
+    {
+        "numero_question": 2,
+        "question": "Les personnes nées sous le signe du Taureau ont leur anniversaire...",
+        "reponse1": "entre le 21 avril et le 20 mai",
+        "reponse2": "entre le 22 avril et le 20 mai",
+        "reponse3": "entre le 21 avril et le 21 mai",
+        "solution" : "entre le 21 avril et le 20 mai",
+        "Anecdote" : "Les personnes nées sous le signe du Taureau ont leur anniversaire entre le 21 et le 20 mai."
+    },
+    {
+        "numero_question": 3,
+        "question": "Les natifs du Poissons sont nés entre le...",
+        "reponse1": "20 février et le 19 mars",
+        "reponse2": "19 février et le 20 mars",
+        "reponse3": "19 février et le 19 mars",
+        "solution" : "19 février et le 19 mars",
+        "Anecdote" : "Les personnes nées sous le signe du Poisson ont leur anniversaire entre le 19 février et le 20 mars. Cela s'est joué à un jour près !"
+    },
+    {
+        "numero_question": 4,
+        "question": "Les Sagittaires sont nés entre le...",
+        "reponse1": "22 novembre et le 21 décembre",
+        "reponse2": "23 novembre et le 20 décembre",
+        "reponse3": "23 novembre et le 21 décembre",
+        "solution" : "23 novembre et le 21 décembre",
+        "Anecdote" : "Eh oui, ces personnes ont bien leur anniversaire entre le 23 novembre et le 21 décembre."
+    },
+    {
+        "numero_question": 5,
+        "question": "Le [ ... ] est La date où le premier homme a marché sur la Lune.",
+        "reponse1": "22 juillet 1970",
+        "reponse2": "21 juillet 1971",
+        "reponse3": "21 juillet 1970",
+        "solution" : "21 juillet 1970",
+        "Anecdote" : "Effectivement la date est légèrement avancée dans l'énoncé. La vrai date était le 21 Juillet 1969 où Neil Armstrong a marché sur la Lune."
+    },
+    {
+        "numero_question": 6,
+        "question": "Falcon 9 est...",
+        "reponse1": "un satellite",
+        "reponse2": "une fusée",
+        "reponse3": "un robot",
+        "solution" : "une fusée",
+        "Anecdote" : "Falcon 9 est une fusée développée par la société américaine Space X."
+    },
+    {
+        "numero_question": 7,
+        "question": "Spoutnik 1 est le [ ... ] satellite à avoir été envoyé dans l’espace.",
+        "reponse1": "premier",
+        "reponse2": "troisième",
+        "reponse3": "deuxième",
+        "solution" : "premier",
+        "Anecdote" : "Spoutnik 1 est le premier satellite à avoir été envoyé dans l’espace. Il s’agit d’un satellite russe qui est en orbite depuis le 4 octobre 1957."
+    },
+    {
+        "numero_question": 8,
+        "question": "La station spatiale internationale (ISS) a été créée en...",
+        "reponse1": "1997",
+        "reponse2": "1998",
+        "reponse3": "1999",
+        "solution" : "1998",
+        "Anecdote" : "La station spatiale internationale a été créée en 1998."
+    },
+    {
+        "numero_question": 9,
+        "question": "La NASA a été créée en...",
+        "reponse1": "1975",
+        "reponse2": "1973",
+        "reponse3": "1974",
+        "solution" : "1974",
+        "Anecdote" : "La très célèbre agence spatiale américaine a bien été créée en 1974."
+    },
+    {
+        "numero_question": 10,
+        "question": "Il y a [ ... ] planètes dans notre système solaire.",
+        "reponse1": "9",
+        "reponse2": "8",
+        "reponse3": "10",
+        "solution" : "8",
+        "Anecdote" : "Il n'y a que 8 planètes dans notre système solaire. Pluton n'est plus considéré comme une planète depuis 2006."
+    }]
+}
